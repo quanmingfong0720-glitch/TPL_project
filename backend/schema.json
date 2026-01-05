@@ -1,0 +1,10 @@
+{
+  "class": "LangChainIndex",
+  "description": "LangChain documents",
+  "vectorizer": "none",
+  "properties": [
+    {"name":"text","dataType":["text"]},
+    {"name":"source","dataType":["text"]},
+    {"name":"title","dataType":["text"]}
+  ]
+}
